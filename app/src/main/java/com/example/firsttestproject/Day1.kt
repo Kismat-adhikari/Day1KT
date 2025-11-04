@@ -18,4 +18,5 @@ fun main(){
     println("The second element of name is ${name[1]}")
     println("The Third element of name is ${name[2]}")
 
+    println(name.size)
 }
