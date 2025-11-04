@@ -12,11 +12,9 @@ fun main(){
 
 
     val age1=ArrayList<Int>()
-    val age2=arrayListOf<Int>(10,20,30)
 
 
     age1.add(5)
 
-    age2.add(10)
 
 }
